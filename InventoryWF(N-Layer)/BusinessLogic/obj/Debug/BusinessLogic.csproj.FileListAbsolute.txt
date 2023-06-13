@@ -1,0 +1,11 @@
+D:\Learn\Assignments and PPT of SQL and C#\Class4 Assignemnt(N-Layer Project)\InventoryWF(N-Layer)\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Learn\Assignments and PPT of SQL and C#\Class4 Assignemnt(N-Layer Project)\InventoryWF(N-Layer)\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Learn\Assignments and PPT of SQL and C#\Class4 Assignemnt(N-Layer Project)\InventoryWF(N-Layer)\BusinessLogic\bin\Debug\BusinessObject.dll
+D:\Learn\Assignments and PPT of SQL and C#\Class4 Assignemnt(N-Layer Project)\InventoryWF(N-Layer)\BusinessLogic\bin\Debug\DataAccess.dll
+D:\Learn\Assignments and PPT of SQL and C#\Class4 Assignemnt(N-Layer Project)\InventoryWF(N-Layer)\BusinessLogic\bin\Debug\BusinessObject.pdb
+D:\Learn\Assignments and PPT of SQL and C#\Class4 Assignemnt(N-Layer Project)\InventoryWF(N-Layer)\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\Learn\Assignments and PPT of SQL and C#\Class4 Assignemnt(N-Layer Project)\InventoryWF(N-Layer)\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+D:\Learn\Assignments and PPT of SQL and C#\Class4 Assignemnt(N-Layer Project)\InventoryWF(N-Layer)\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Learn\Assignments and PPT of SQL and C#\Class4 Assignemnt(N-Layer Project)\InventoryWF(N-Layer)\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\Learn\Assignments and PPT of SQL and C#\Class4 Assignemnt(N-Layer Project)\InventoryWF(N-Layer)\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Learn\Assignments and PPT of SQL and C#\Class4 Assignemnt(N-Layer Project)\InventoryWF(N-Layer)\BusinessLogic\obj\Debug\BusinessLogic.pdb

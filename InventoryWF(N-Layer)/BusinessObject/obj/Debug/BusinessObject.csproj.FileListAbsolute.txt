@@ -1,0 +1,6 @@
+D:\Learn\Assignments and PPT of SQL and C#\Class4 Assignemnt(N-Layer Project)\InventoryWF(N-Layer)\BusinessObject\bin\Debug\BusinessObject.dll
+D:\Learn\Assignments and PPT of SQL and C#\Class4 Assignemnt(N-Layer Project)\InventoryWF(N-Layer)\BusinessObject\bin\Debug\BusinessObject.pdb
+D:\Learn\Assignments and PPT of SQL and C#\Class4 Assignemnt(N-Layer Project)\InventoryWF(N-Layer)\BusinessObject\obj\Debug\BusinessObject.csproj.AssemblyReference.cache
+D:\Learn\Assignments and PPT of SQL and C#\Class4 Assignemnt(N-Layer Project)\InventoryWF(N-Layer)\BusinessObject\obj\Debug\BusinessObject.csproj.CoreCompileInputs.cache
+D:\Learn\Assignments and PPT of SQL and C#\Class4 Assignemnt(N-Layer Project)\InventoryWF(N-Layer)\BusinessObject\obj\Debug\BusinessObject.dll
+D:\Learn\Assignments and PPT of SQL and C#\Class4 Assignemnt(N-Layer Project)\InventoryWF(N-Layer)\BusinessObject\obj\Debug\BusinessObject.pdb
